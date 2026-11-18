@@ -3,9 +3,9 @@ message: "If you use this software, please cite it as below."
 type: software
 title: "2D binary Dammann vortex grating"
 abstract: "Python code that generates a 2D binary Dammann vortex grating as a phase-only mask for a spatial light modulator (SLM), enabling detection of the orbital angular momentum of optical vortices from l = -24 to +24."
-version: "1.0.0"
-date-released: "2026-11-18"
-doi: "10.5281/zenodo.24354388"
+version: "1.0.1"
+date-released: "2026-11-19"
+doi: ""
 license: MIT
 repository-code: "https://github.com/singularopticsgroup/2D-binary-Dammann-vortex-grating"
 authors:
