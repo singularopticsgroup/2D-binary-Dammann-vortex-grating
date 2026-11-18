@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "2D binary Dammann vortex grating"
+abstract: "Python code that generates a 2D binary Dammann vortex grating as a phase-only mask for a spatial light modulator (SLM), enabling detection of the orbital angular momentum of optical vortices from l = -24 to +24."
+version: "1.0.0"
+date-released: "2026-11-18"
+doi: "10.5281/zenodo.24354388"
+license: MIT
+repository-code: "https://github.com/singularopticsgroup/2D-binary-Dammann-vortex-grating"
+authors:
+  - family-names: "Wroński"
+    given-names: "Jakub"
+    orcid: "https://orcid.org/0009-0006-9014-8464"
+    affiliation: "Wrocław University of Science and Technology"
+keywords:
+  - vortex lattice
+  - polariton condensate
+  - OAM detection
+  - topological charge
+  - Dammann grating
